@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+    font-size: 20px;
+    color: black;
+}
+
+#header_box{
+   text-align: center;
+   width: 100%;
+   
+}
+
+#nav_box ul{
+    list-style: none;
+    font-size: 25px;
+
+}
+
+#nav_box li{
+    float: left;
+}
+
+#nav_box a{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 100%;
+}
+
+img{
+    width: 20%;
+}
+
